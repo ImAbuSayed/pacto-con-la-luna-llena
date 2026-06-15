@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pacto-con-la-luna-llena/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Pacto con la luna llena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pacto-con-la-luna-llena/) |
+| **Get License** | [Obtain a Music License for Pacto con la luna llena](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pacto-con-la-luna-llena/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la luna llena nos llama
+> Tú tienes el ritmo que mi cuerpo reclama
+> Madrid está ardiendo y tú eres la llama
+> Vente conmigo, olvidemos el drama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
